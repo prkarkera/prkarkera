@@ -5,8 +5,8 @@ I'm a backend Node.js developer exploring React and full-stack development. Pass
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Backend: Node.js, Express, NestJS, MongoDB, Prisma
-- 🖼️ Frontend: React.js (learning), HTML, CSS, JavaScript
+- 💻 Backend: Node.js, Express, NestJS, MongoDB, PSQL, Prisma, AWS
+- 🖼️ Frontend: React.js, HTML, CSS, JavaScript
 - ⚙️ Tools: Git, Postman, Docker, VSCode
 
 ---
@@ -16,7 +16,7 @@ I'm a backend Node.js developer exploring React and full-stack development. Pass
 | Name | Description | Tech |
 |------|-------------|------|
 | [frontend-movie-app](https://github.com/prkarkera/frontend-movie-app) | Simple movie app using React and TMDb API | React |
-| [backend-email-engine-core](https://github.com/prkarkera/backend-email-engine-core) | Email processing and job scheduler | Node.js, MongoDB |
+| [backend-email-engine-core](https://github.com/prkarkera/backend-email-engine-core) | Email processing and job scheduler | Node.js, ElasticSearch |
 | [js-assignments](https://github.com/prkarkera/js-assignments) | Core JavaScript practice exercises | JavaScript |
 
 ---
@@ -29,5 +29,5 @@ I'm a backend Node.js developer exploring React and full-stack development. Pass
 ---
 
 ## 📬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-link/)
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/pramod-karkera/)
+- Email: pramodkarkera608@gmail.com
