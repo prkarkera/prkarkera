@@ -19,14 +19,6 @@ I'm a backend Node.js developer exploring React and full-stack development. Pass
 | [backend-email-engine-core](https://github.com/prkarkera/backend-email-engine-core) | Email processing and job scheduler | Node.js, ElasticSearch |
 | [js-assignments](https://github.com/prkarkera/js-assignments) | Core JavaScript practice exercises | JavaScript |
 
----
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=prkarkera&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prkarkera&layout=compact&theme=radical)
-
----
 
 ## 📬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/pramod-karkera/)
