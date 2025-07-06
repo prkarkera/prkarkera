@@ -1,0 +1,33 @@
+# 👋 Hi, I'm Pramod Karkera
+
+I'm a backend Node.js developer exploring React and full-stack development. Passionate about solving problems, building scalable systems, and writing clean code.
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Backend: Node.js, Express, NestJS, MongoDB, Prisma
+- 🖼️ Frontend: React.js (learning), HTML, CSS, JavaScript
+- ⚙️ Tools: Git, Postman, Docker, VSCode
+
+---
+
+## 📁 Featured Projects
+
+| Name | Description | Tech |
+|------|-------------|------|
+| [frontend-movie-app](https://github.com/prkarkera/frontend-movie-app) | Simple movie app using React and TMDb API | React |
+| [backend-email-engine-core](https://github.com/prkarkera/backend-email-engine-core) | Email processing and job scheduler | Node.js, MongoDB |
+| [js-assignments](https://github.com/prkarkera/js-assignments) | Core JavaScript practice exercises | JavaScript |
+
+---
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=prkarkera&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prkarkera&layout=compact&theme=radical)
+
+---
+
+## 📬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/your-link/)
+- Email: your.email@example.com
